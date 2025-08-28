@@ -1,7 +1,7 @@
-# [Github konto namn]
+# Mikyli3
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+**Min favorit teknologi:** 3D modellning, rendering
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+**Mitt mål med kursen:** Att använda, lära och utnyttja Github/Bash på ett nytt sätt
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+**En rolig fakt:** Jag kan lösa en rubiks cube och annat att jag tycker om att fotografera
